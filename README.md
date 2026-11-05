@@ -1,3 +1,8 @@
+> **foxnaim** · Инструмент учёта гостиницы на Java: клиенты, бронирование номеров разных типов
+>
+> Готовая основа под клиентский проект. Стек: Java.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # Hotel-Management-OOP-Project
 
 This is a Hotel Management tool which can be used to manage
